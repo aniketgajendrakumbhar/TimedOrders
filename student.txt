@@ -1,0 +1,4 @@
+ID|Food Name|Category
+1|Classic Veg Burger|Burgers
+2|Cheese Pizza|Pizza
+3|Masala Dosa|South Indian
